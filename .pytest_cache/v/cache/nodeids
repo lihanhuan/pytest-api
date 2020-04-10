@@ -1,0 +1,10 @@
+[
+  "testcase/sys/test_sys_change_psw.py::Test_change_psw::()::test_changePwd_success",
+  "testcase/sys/test_sys_change_psw.py::Test_change_psw::()::test_changePwd_fail",
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_success",
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail",
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail3",
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail4",
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail5",
+  "testcase/user/test_user_loadUserInfo.py::Test_sys_getUserInfo::()::test_sys_getUserInfo"
+]

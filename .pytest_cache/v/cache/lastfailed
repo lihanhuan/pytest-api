@@ -1,0 +1,22 @@
+{
+  "testcase/sys/test_sys_change_psw.py::Test_change_psw::()::test_changePwd_fail": true,
+  "testcase/sys/test_sys_change_psw.py::Test_change_psw::()::test_changePwd_success": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_getUserInfo": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail2": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail3": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail4": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_fail5": true,
+  "testcase/sys/test_sys_login.py::Test_login::()::test_login_success": true,
+  "testcase/test_mycase.py::Test_all::()::test_fir": true,
+  "testcase/test_mycase.py::Test_all::()::test_firsts": true,
+  "testcase/test_mycase.py::Test_all::()::test_six": true,
+  "testcase/test_mycase.py::Test_all::()::test_thred": true,
+  "testcase/test_mycase.py::test_first": true,
+  "testcase/test_mycase.py::test_thred": true,
+  "testcase/test_mytwo.py::Test_all::()::test_fir": true,
+  "testcase/test_mytwo.py::Test_all::()::test_firsts": true,
+  "testcase/test_mytwo.py::Test_all::()::test_six": true,
+  "testcase/test_mytwo.py::Test_all::()::test_thred": true,
+  "testcase/user/test_user_loadUserInfo.py::Test_sys_getUserInfo::()::test_sys_getUserInfo": true
+}

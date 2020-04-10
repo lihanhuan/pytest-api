@@ -1,0 +1,66 @@
+{
+  "uid" : "c0ea47599d33d3ed",
+  "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail5",
+  "fullName" : "testcase.E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail5",
+  "historyId" : "e1ee15622b690d9346c97be9d873904a",
+  "time" : {
+    "start" : 1554608475943,
+    "stop" : 1554608475970,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "lenovo-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户不存在"
+  }, {
+    "name" : "thread",
+    "value" : "10548-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail5"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0ea47599d33d3ed.json",
+  "parameterValues" : [ ]
+}

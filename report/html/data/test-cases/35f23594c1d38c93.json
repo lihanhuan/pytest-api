@@ -1,0 +1,66 @@
+{
+  "uid" : "35f23594c1d38c93",
+  "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_fail",
+  "fullName" : "testcase.E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_fail",
+  "historyId" : "bfecc0628cc528407a81d286a7df8bcd",
+  "time" : {
+    "start" : 1554608475759,
+    "stop" : 1554608475788,
+    "duration" : 29
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "lenovo-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "回归密码成功"
+  }, {
+    "name" : "thread",
+    "value" : "10548-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_fail"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35f23594c1d38c93.json",
+  "parameterValues" : [ ]
+}

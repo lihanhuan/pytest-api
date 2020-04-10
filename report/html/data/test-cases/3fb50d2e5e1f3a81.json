@@ -1,0 +1,66 @@
+{
+  "uid" : "3fb50d2e5e1f3a81",
+  "name" : "E:\\pyworkspace\\pytestapi\\testcase\\user.test_user_loadUserInfo.Test_sys_getUserInfo.test_sys_getUserInfo",
+  "fullName" : "testcase.E:\\pyworkspace\\pytestapi\\testcase\\user.test_user_loadUserInfo.Test_sys_getUserInfo.test_sys_getUserInfo",
+  "historyId" : "aace418ee0c52f7b3f3ad8541e104adc",
+  "time" : {
+    "start" : 1554608475974,
+    "stop" : 1554608476152,
+    "duration" : 178
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "校验用户模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "lenovo-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "校验成功"
+  }, {
+    "name" : "thread",
+    "value" : "10548-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\pyworkspace\\pytestapi\\testcase\\user.test_user_loadUserInfo.Test_sys_getUserInfo.test_sys_getUserInfo"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3fb50d2e5e1f3a81.json",
+  "parameterValues" : [ ]
+}

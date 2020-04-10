@@ -1,0 +1,141 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_success",
+        "uid" : "92d74070a629df78",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475593,
+          "stop" : 1554608475757,
+          "duration" : 164
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    }, {
+      "name" : "回归密码成功",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_fail",
+        "uid" : "35f23594c1d38c93",
+        "parentUid" : "8d234938e907ff117054245f8f5a9b5f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475759,
+          "stop" : 1554608475788,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d234938e907ff117054245f8f5a9b5f"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+        "uid" : "c853f2eaa119c0dd",
+        "parentUid" : "57a00934f1bd353362aa1d78642bc405",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475790,
+          "stop" : 1554608475833,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57a00934f1bd353362aa1d78642bc405"
+    }, {
+      "name" : "用户不存在",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail",
+        "uid" : "98aa5473c55fca8b",
+        "parentUid" : "5eab28b55203dd19015cabcb4e12ffbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475835,
+          "stop" : 1554608475864,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail5",
+        "uid" : "c0ea47599d33d3ed",
+        "parentUid" : "5eab28b55203dd19015cabcb4e12ffbc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475943,
+          "stop" : 1554608475970,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5eab28b55203dd19015cabcb4e12ffbc"
+    }, {
+      "name" : "用户名或密码错误",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail3",
+        "uid" : "73cd349fb7521ce9",
+        "parentUid" : "fad2c343aaebe8ed392db08e61019692",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475866,
+          "stop" : 1554608475909,
+          "duration" : 43
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fad2c343aaebe8ed392db08e61019692"
+    }, {
+      "name" : "此账户禁止登录",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail4",
+        "uid" : "2f58f1307d4470dc",
+        "parentUid" : "664729840b4a701d327dda0ebd2034ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475911,
+          "stop" : 1554608475939,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "664729840b4a701d327dda0ebd2034ec"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "校验用户模块",
+    "children" : [ {
+      "name" : "校验成功",
+      "children" : [ {
+        "name" : "E:\\pyworkspace\\pytestapi\\testcase\\user.test_user_loadUserInfo.Test_sys_getUserInfo.test_sys_getUserInfo",
+        "uid" : "3fb50d2e5e1f3a81",
+        "parentUid" : "bd79d38cb80cec1695d21d4eb7c3a8ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608475974,
+          "stop" : 1554608476152,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bd79d38cb80cec1695d21d4eb7c3a8ef"
+    } ],
+    "uid" : "6af0ae9f2a4ee69b880d7734673c8c0a"
+  } ]
+}

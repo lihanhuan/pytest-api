@@ -1,0 +1,105 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_success",
+      "uid" : "92d74070a629df78",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475593,
+        "stop" : 1554608475757,
+        "duration" : 164
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_change_psw.Test_change_psw.test_changePwd_fail",
+      "uid" : "35f23594c1d38c93",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475759,
+        "stop" : 1554608475788,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+      "uid" : "c853f2eaa119c0dd",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475790,
+        "stop" : 1554608475833,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail",
+      "uid" : "98aa5473c55fca8b",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475835,
+        "stop" : 1554608475864,
+        "duration" : 29
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail3",
+      "uid" : "73cd349fb7521ce9",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475866,
+        "stop" : 1554608475909,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail4",
+      "uid" : "2f58f1307d4470dc",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475911,
+        "stop" : 1554608475939,
+        "duration" : 28
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\sys.test_sys_login.Test_login.test_login_fail5",
+      "uid" : "c0ea47599d33d3ed",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475943,
+        "stop" : 1554608475970,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\pyworkspace\\pytestapi\\testcase\\user.test_user_loadUserInfo.Test_sys_getUserInfo.test_sys_getUserInfo",
+      "uid" : "3fb50d2e5e1f3a81",
+      "parentUid" : "7d3977dcbf31acd3e26ecbe96342e45e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554608475974,
+        "stop" : 1554608476152,
+        "duration" : 178
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}
